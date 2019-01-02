@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Water Bottle Status</string>
+    <string name="key_status">xyz.raieen.waterbottlestatus.status</string>
+    <string name="toggle">Hold click to toggle.</string>
+    <string-array name="has_water">
+        <item>👍 water bottle.</item>
+        <item>You have a water bottle.</item>
+        <item>💦 water bottle.</item>
+    </string-array>
+    <string-array name="no_water">
+        <item>No water bottle.</item>
+        <item>pls water bottle.</item>
+        <item>You need a water bottle.</item>
+        <item>👎 water bottle.</item>
+    </string-array>
+</resources>

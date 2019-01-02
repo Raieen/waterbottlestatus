@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorHasWater">#81D4FA</color>
+    <color name="colorNoWater">#F06292</color>
+    <color name="colorTextPrimary">#FFFF</color>
+    <color name="colorTextAccent">#9E9E9E</color>
+</resources>
