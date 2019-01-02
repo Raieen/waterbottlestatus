@@ -4,7 +4,6 @@ My solution to forgetting about water bottles which I did not finish. This track
 
 ### When you have a water bottle:
 <img src="https://github.com/Raieen/waterbottlestatus/blob/master/images/has_water.png" height="500">
-![](images/has_water.png)
 
 ### No water bottle:
 <img src="https://github.com/Raieen/waterbottlestatus/blob/master/images/no_water.png" height="500">
